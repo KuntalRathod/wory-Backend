@@ -73,14 +73,14 @@ npm start
 
 ### API Endpoints
 
-Auth Routes
-POST /api/auth/signup - Sign up a new user
-POST /api/auth/login - Log in an existing user
-Project Routes
-POST /api/projects - Create a new project (Client only)
-PUT /api/projects/:projectId - Update a project (Client only)
-DELETE /api/projects/:projectId - Delete a project (Client only)
-GET /api/projects - List all projects
-GET /api/projects/tag/:tag - Fetch projects by tag
+- Auth Routes
+- POST /api/auth/signup - Sign up a new user
+- POST /api/auth/login - Log in an existing user
+- Project Routes
+- POST /api/projects - Create a new project (Client only)
+- PUT /api/projects/:projectId - Update a project (Client only)
+- DELETE /api/projects/:projectId - Delete a project (Client only)
+- GET /api/projects - List all projects
+- GET /api/projects/tag/:tag - Fetch projects by tag
 
 
